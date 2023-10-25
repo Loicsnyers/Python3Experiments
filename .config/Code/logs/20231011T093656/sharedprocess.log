@@ -1,0 +1,45 @@
+2023-10-11 09:36:59.526 [info] Started initializing default profile extensions in extensions installation folder. file:///home/devasc/.vscode/extensions
+2023-10-11 09:37:00.161 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/devasc/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/devasc/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.eb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35625)
+    at t.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-11 09:37:00.576 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/devasc/.vscode/extensions
+2023-10-11 09:37:00.872 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/devasc/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/devasc/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.eb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35625)
+    at t.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-11 10:00:32.000 [info] Getting Manifest... ms-python.python
+2023-10-11 10:00:32.106 [info] Installing extension: ms-python.python
+2023-10-11 10:00:33.310 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-11 10:00:33.427 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-10-11 10:00:58.897 [info] Extension signature is verified: ms-python.python
+2023-10-11 10:01:08.599 [info] Extracted extension to file:///home/devasc/.vscode/extensions/ms-python.python-2023.18.0: ms-python.python
+2023-10-11 10:01:08.609 [info] Renamed to /home/devasc/.vscode/extensions/ms-python.python-2023.18.0
+2023-10-11 10:01:08.639 [info] Extracting extension completed. ms-python.python
+2023-10-11 10:01:08.738 [info] Marked extension as uninstalled ms-python.python-2020.6.88468
+2023-10-11 10:01:08.742 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/devasc/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/devasc/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.eb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35625)
+    at t.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-11 10:01:17.733 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-10-11 10:01:35.109 [info] Extracted extension to file:///home/devasc/.vscode/extensions/ms-python.vscode-pylance-2023.10.10: ms-python.vscode-pylance
+2023-10-11 10:01:35.139 [info] Renamed to /home/devasc/.vscode/extensions/ms-python.vscode-pylance-2023.10.10
+2023-10-11 10:01:35.145 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-11 10:01:35.202 [info] Extension installed successfully: ms-python.python
+2023-10-11 10:01:35.203 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-11 10:01:35.249 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/devasc/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/devasc/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.eb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35625)
+    at t.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)

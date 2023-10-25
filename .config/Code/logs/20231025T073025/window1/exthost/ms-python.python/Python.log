@@ -1,0 +1,7 @@
+2023-10-25 07:30:28.790 [info] Telemetry is disabled
+2023-10-25 07:30:28.790 [info] Experiments are disabled, only manually opted experiments are active.
+2023-10-25 07:30:28.921 [info] Test server listening.
+2023-10-25 07:30:28.930 [info] Python interpreter path: /bin/python3
+2023-10-25 07:30:32.918 [info] Starting Pylance language server.
+2023-10-25 07:30:35.693 [info] Discover tests for workspace name: undefined - uri: /home/devasc/.config/Code/User/settings.json
+2023-10-25 07:30:41.669 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/Webex Weather bot.py"

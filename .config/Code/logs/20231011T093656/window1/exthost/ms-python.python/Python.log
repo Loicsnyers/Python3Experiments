@@ -1,0 +1,47 @@
+2023-10-11 10:02:19.061 [info] Telemetry is disabled
+2023-10-11 10:02:19.061 [info] Experiments are disabled, only manually opted experiments are active.
+2023-10-11 10:02:19.179 [info] Test server listening.
+2023-10-11 10:02:19.223 [info] > conda info --json
+2023-10-11 10:02:19.655 [info] Found: /bin/python3 --> /bin/python3.8
+2023-10-11 10:02:19.655 [info] Found: /bin/python3.8 --> /bin/python3.8
+2023-10-11 10:02:19.680 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2023-10-11 10:02:19.680 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2023-10-11 10:02:19.715 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-11 10:02:19.741 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-11 10:02:19.742 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-11 10:02:19.742 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-11 10:02:19.799 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-11 10:02:19.800 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-11 10:02:19.800 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-11 10:02:19.800 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-11 10:02:19.800 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-11 10:02:19.800 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-11 10:02:19.800 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-11 10:02:19.937 [info] Python interpreter path: /bin/python3
+2023-10-11 10:02:21.206 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-11 10:02:22.056 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-11 10:02:23.026 [info] Starting Pylance language server.
+2023-10-11 10:04:03.332 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads
+2023-10-11 10:05:12.068 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/deletebooks.py
+2023-10-11 10:05:12.206 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/deletebooks.py
+2023-10-11 10:05:16.361 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/deletebooks.py
+2023-10-11 10:10:07.794 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/deletebooksV2.py
+2023-10-11 10:10:13.097 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/deletebooksV2.py
+2023-10-11 11:17:01.160 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-11 11:42:54.460 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/deletebooks.py
+2023-10-11 11:43:06.935 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/deletebooksV2.py
+2023-10-11 12:29:03.627 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-11 12:29:28.031 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-11 12:29:36.800 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-11 12:29:44.858 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-11 13:29:55.203 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/### ip addresses: dict and list.py
+2023-10-11 13:29:55.265 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/### ip addresses: dict and list.py"
+2023-10-11 13:30:25.311 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/### ip addresses: dict and list.py
+2023-10-11 13:30:27.548 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/### ip addresses: dict and list.py"
+2023-10-11 13:49:49.538 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/netmask_prefixes .py
+2023-10-11 13:49:52.213 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/netmask_prefixes .py"
+2023-10-11 13:50:47.363 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/netmask_prefixes .py
+2023-10-11 13:50:49.054 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/netmask_prefixes .py"
+2023-10-11 14:19:32.903 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/WEBEX IMPORT.py
+2023-10-11 14:19:34.503 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/WEBEX IMPORT.py
+2023-10-11 14:19:36.077 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/WEBEX IMPORT.py"

@@ -1,0 +1,11 @@
+2023-10-24 12:10:04.079 [info] [Info  - 12:10:04 PM] (7220) Pylance language server 2023.10.10 (pyright 45942a15) starting
+2023-10-24 12:10:04.092 [info] [Info  - 12:10:04 PM] (7220) Server root directory: /home/devasc/.vscode/extensions/ms-python.vscode-pylance-2023.10.10/dist
+2023-10-24 12:10:04.092 [info] [Info  - 12:10:04 PM] (7220) Starting service instance "Downloads"
+2023-10-24 12:10:04.240 [info] [Info  - 12:10:04 PM] (7220) Setting pythonPath for service "Downloads": "/bin/python3"
+2023-10-24 12:10:04.240 [info] [Info  - 12:10:04 PM] (7220) Setting environmentName for service "Downloads": "3.8.2 (global)"
+2023-10-24 12:10:04.262 [info] [Warn  - 12:10:04 PM] (7220) stubPath /home/devasc/Downloads/typings is not a valid directory.
+2023-10-24 12:10:04.331 [info] [Info  - 12:10:04 PM] (7220) Assuming Python version 3.8
+2023-10-24 12:10:04.569 [info] [Info  - 12:10:04 PM] (7220) Found 20 source files
+2023-10-24 12:10:08.325 [info] [Info  - 12:10:08 PM] (7220) [BG(1)] Long operation: getSemanticTokens full at /home/devasc/Downloads/Webex Weather bot.py (2621ms)
+2023-10-24 12:10:09.963 [info] [Info  - 12:10:09 PM] (7220) [IDX(2)] Long operation: index execution environment /home/devasc/Downloads (2534ms)
+2023-10-24 12:10:09.964 [info] [Info  - 12:10:09 PM] (7220) [IDX(2)] Long operation: index packages /home/devasc/Downloads (2545ms)

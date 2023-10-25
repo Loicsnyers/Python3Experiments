@@ -1,0 +1,17 @@
+2023-10-17 10:29:09.686 [info] Telemetry is disabled
+2023-10-17 10:29:09.686 [info] Experiments are disabled, only manually opted experiments are active.
+2023-10-17 10:29:09.686 [info] Test server listening.
+2023-10-17 10:29:09.686 [info] Python interpreter path: /bin/python3
+2023-10-17 10:29:13.590 [info] Starting Pylance language server.
+2023-10-17 10:35:45.137 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/python basics lab challenge.py
+2023-10-17 10:35:48.289 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/python basics lab challenge.py"
+2023-10-17 10:37:08.369 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/python basics lab challenge.py"
+2023-10-17 10:37:08.606 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/python basics lab challenge.py
+2023-10-17 10:38:21.130 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/python basics lab challenge.py"
+2023-10-17 10:38:21.348 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/python basics lab challenge.py
+2023-10-17 10:39:39.001 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/python basics lab challenge.py"
+2023-10-17 10:39:39.223 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/python basics lab challenge.py
+2023-10-17 10:40:06.841 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/python basics lab challenge.py
+2023-10-17 12:19:43.986 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-17 12:20:36.887 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/deletebooksV2.py
+2023-10-17 12:37:39.421 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py

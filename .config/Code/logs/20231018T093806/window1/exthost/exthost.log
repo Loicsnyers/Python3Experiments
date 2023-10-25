@@ -1,0 +1,14 @@
+2023-10-18 09:38:10.239 [info] Extension host with pid 2805 started
+2023-10-18 09:38:10.239 [info] Skipping acquiring lock for /home/devasc/.config/Code/User/workspaceStorage/eeec854956f05a059d13bb6953e73bdf.
+2023-10-18 09:38:10.421 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-18 09:38:11.063 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-18 09:38:11.158 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-18 09:38:11.524 [info] Eager extensions activated
+2023-10-18 09:38:11.563 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-18 09:38:11.572 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-18 09:38:13.423 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onCommand:python.createNewFile'
+2023-10-18 09:38:13.818 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-10-18 09:38:14.200 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-18 09:43:03.933 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-10-18 12:50:34.018 [info] Extension host terminating: renderer closed the MessagePort
+2023-10-18 12:50:34.061 [info] Extension host with pid 2805 exiting with code 0

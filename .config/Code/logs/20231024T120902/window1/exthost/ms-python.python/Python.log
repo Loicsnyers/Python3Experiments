@@ -1,0 +1,5 @@
+2023-10-24 12:10:02.096 [info] Telemetry is disabled
+2023-10-24 12:10:02.096 [info] Experiments are disabled, only manually opted experiments are active.
+2023-10-24 12:10:02.187 [info] Test server listening.
+2023-10-24 12:10:02.187 [info] Python interpreter path: /bin/python3
+2023-10-24 12:10:04.170 [info] Starting Pylance language server.

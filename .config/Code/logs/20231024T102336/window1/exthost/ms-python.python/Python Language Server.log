@@ -1,0 +1,21 @@
+2023-10-24 10:23:47.253 [info] [Info  - 10:23:47 AM] (3095) Pylance language server 2023.10.10 (pyright 45942a15) starting
+2023-10-24 10:23:47.272 [info] [Info  - 10:23:47 AM] (3095) Server root directory: /home/devasc/.vscode/extensions/ms-python.vscode-pylance-2023.10.10/dist
+2023-10-24 10:23:47.284 [info] [Info  - 10:23:47 AM] (3095) Starting service instance "Downloads"
+2023-10-24 10:23:47.357 [info] [Info  - 10:23:47 AM] (3095) Setting pythonPath for service "Downloads": "/bin/python3"
+2023-10-24 10:23:47.358 [info] [Info  - 10:23:47 AM] (3095) Setting environmentName for service "Downloads": "3.8.2 (global)"
+2023-10-24 10:23:47.361 [info] [Warn  - 10:23:47 AM] (3095) stubPath /home/devasc/Downloads/typings is not a valid directory.
+2023-10-24 10:23:47.413 [info] [Info  - 10:23:47 AM] (3095) Assuming Python version 3.8
+2023-10-24 10:23:47.809 [info] [Info  - 10:23:47 AM] (3095) Found 10 source files
+2023-10-24 10:23:53.356 [info] [Info  - 10:23:53 AM] (3095) [IDX(2)] Long operation: scan packages /home/devasc/Downloads (3861ms)
+2023-10-24 10:23:55.926 [info] [Info  - 10:23:55 AM] (3095) [IDX(2)] Long operation: index execution environment /home/devasc/Downloads (2493ms)
+2023-10-24 10:23:55.927 [info] [Info  - 10:23:55 AM] (3095) [IDX(2)] Long operation: index packages /home/devasc/Downloads (2520ms)
+2023-10-24 10:25:59.597 [info] [Info  - 10:25:59 AM] (3095) Found 11 source files
+2023-10-24 10:29:18.088 [info] [Info  - 10:29:18 AM] (3095) Found 12 source files
+2023-10-24 10:32:02.784 [info] [Info  - 10:32:02 AM] (3095) Found 13 source files
+2023-10-24 10:35:56.338 [info] [Info  - 10:35:56 AM] (3095) Found 14 source files
+2023-10-24 10:40:33.396 [info] [Info  - 10:40:33 AM] (3095) Found 15 source files
+2023-10-24 10:42:40.041 [info] [Info  - 10:42:40 AM] (3095) Found 16 source files
+2023-10-24 10:45:11.457 [info] [Info  - 10:45:11 AM] (3095) Found 17 source files
+2023-10-24 10:49:42.320 [info] [Info  - 10:49:42 AM] (3095) Found 18 source files
+2023-10-24 10:53:12.675 [info] [Info  - 10:53:12 AM] (3095) Found 19 source files
+2023-10-24 10:55:54.108 [info] [Info  - 10:55:54 AM] (3095) Found 20 source files

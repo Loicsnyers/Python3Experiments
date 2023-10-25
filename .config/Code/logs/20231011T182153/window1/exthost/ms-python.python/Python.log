@@ -1,0 +1,14 @@
+2023-10-11 18:22:30.493 [info] Telemetry is disabled
+2023-10-11 18:22:30.493 [info] Experiments are disabled, only manually opted experiments are active.
+2023-10-11 18:22:30.493 [info] Test server listening.
+2023-10-11 18:22:30.493 [info] Python interpreter path: /bin/python3
+2023-10-11 18:22:34.785 [info] Starting Pylance language server.
+2023-10-11 18:27:08.602 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-11 18:30:19.114 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/deletebooksV2.py
+2023-10-11 18:33:31.062 [info] Send text to terminal: /bin/python3 /home/devasc/Downloads/addbooks.py
+2023-10-11 18:38:35.889 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/WEBEX DELETE GROUPS.py
+2023-10-11 18:38:37.560 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/WEBEX DELETE GROUPS.py"
+2023-10-11 18:42:43.232 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/WEBEX DELETE GROUPS.py"
+2023-10-11 18:42:43.420 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/WEBEX DELETE GROUPS.py
+2023-10-11 18:42:47.828 [info] Send text to terminal: /bin/python3 "/home/devasc/Downloads/WEBEX DELETE GROUPS.py"
+2023-10-11 18:42:48.015 [info] Discover tests for workspace name: Downloads - uri: /home/devasc/Downloads/WEBEX DELETE GROUPS.py

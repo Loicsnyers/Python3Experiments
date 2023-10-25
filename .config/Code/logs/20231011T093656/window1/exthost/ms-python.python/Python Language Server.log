@@ -1,0 +1,21 @@
+2023-10-11 10:02:22.932 [info] [Info  - 10:02:22 AM] (28641) Pylance language server 2023.10.10 (pyright 45942a15) starting
+2023-10-11 10:02:22.938 [info] [Info  - 10:02:22 AM] (28641) Server root directory: /home/devasc/.vscode/extensions/ms-python.vscode-pylance-2023.10.10/dist
+2023-10-11 10:02:22.940 [info] [Info  - 10:02:22 AM] (28641) Starting service instance "Downloads"
+2023-10-11 10:02:23.146 [info] [Info  - 10:02:23 AM] (28641) Setting pythonPath for service "Downloads": "/bin/python3"
+2023-10-11 10:02:23.155 [info] [Info  - 10:02:23 AM] (28641) Setting environmentName for service "Downloads": "3.8.2 (global)"
+2023-10-11 10:02:23.159 [info] [Warn  - 10:02:23 AM] (28641) stubPath /home/devasc/Downloads/typings is not a valid directory.
+2023-10-11 10:02:23.243 [info] [Info  - 10:02:23 AM] (28641) Assuming Python version 3.8
+2023-10-11 10:02:23.807 [info] [Info  - 10:02:23 AM] (28641) Found 1 source file
+2023-10-11 10:02:27.793 [info] [Info  - 10:02:27 AM] (28641) [IDX(2)] Long operation: scan packages /home/devasc/Downloads (2011ms)
+2023-10-11 10:02:31.021 [info] [Info  - 10:02:31 AM] (28641) [IDX(2)] Long operation: index execution environment /home/devasc/Downloads (3106ms)
+2023-10-11 10:02:31.032 [info] [Info  - 10:02:31 AM] (28641) [IDX(2)] Long operation: index packages /home/devasc/Downloads (3124ms)
+2023-10-11 10:05:12.495 [info] [Info  - 10:05:12 AM] (28641) Found 2 source files
+2023-10-11 10:10:07.968 [info] [Info  - 10:10:07 AM] (28641) Found 3 source files
+2023-10-11 13:29:55.347 [info] [Info  - 1:29:55 PM] (28641) Found 4 source files
+2023-10-11 13:29:57.479 [info] [Info  - 1:29:57 PM] (28641) [BG(1)] Long operation: getSemanticTokens range 0:0 - 9:36 at /home/devasc/Downloads/### ip addresses: dict and list.py (2176ms)
+2023-10-11 13:49:49.594 [info] [Info  - 1:49:49 PM] (28641) Found 5 source files
+2023-10-11 13:49:52.072 [info] [Info  - 1:49:52 PM] (28641) [BG(1)] Long operation: analyzing: /home/devasc/Downloads/deletebooks.py (2515ms)
+2023-10-11 14:01:03.089 [info] [Info  - 2:01:03 PM] (28641) [BG(1)] Long operation: checking: Untitled-1 (3248ms)
+2023-10-11 14:01:03.089 [info] [Info  - 2:01:03 PM] (28641) [BG(1)] Long operation: analyzing: Untitled-1 (3314ms)
+2023-10-11 14:19:32.849 [info] [Info  - 2:19:32 PM] (28641) Found 6 source files
+2023-10-11 14:19:35.117 [info] [Info  - 2:19:35 PM] (28641) [BG(1)] Long operation: analyzing: /home/devasc/Downloads/deletebooks.py (2221ms)

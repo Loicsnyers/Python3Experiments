@@ -1,0 +1,10 @@
+2023-10-18 12:50:39.151 [info] Telemetry is disabled
+2023-10-18 12:50:39.151 [info] Experiments are disabled, only manually opted experiments are active.
+2023-10-18 12:50:39.261 [info] Test server listening.
+2023-10-18 12:50:39.263 [info] Python interpreter path: /bin/python3
+2023-10-18 12:50:42.865 [info] Starting Pylance language server.
+2023-10-18 13:13:42.224 [info] Discover tests for workspace name: undefined - uri: /home/devasc/weather_project/calc/test_calc.py
+2023-10-18 13:24:34.915 [info] Discover tests for workspace name: undefined - uri: /home/devasc/weather_project/calc/calc.py
+2023-10-18 13:28:51.159 [info] Discover tests for workspace name: undefined - uri: /home/devasc/weather_project/calc/test_calc.py
+2023-10-18 13:35:33.832 [info] Discover tests for workspace name: undefined - uri: /home/devasc/weather_project/IP/test_ipv4.py
+2023-10-18 13:36:18.852 [info] Discover tests for workspace name: undefined - uri: /home/devasc/weather_project/IP/ipv4.py

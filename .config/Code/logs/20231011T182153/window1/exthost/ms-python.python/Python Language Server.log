@@ -1,0 +1,16 @@
+2023-10-11 18:22:34.744 [info] [Info  - 6:22:34 PM] (2803) Pylance language server 2023.10.10 (pyright 45942a15) starting
+2023-10-11 18:22:34.745 [info] [Info  - 6:22:34 PM] (2803) Server root directory: /home/devasc/.vscode/extensions/ms-python.vscode-pylance-2023.10.10/dist
+2023-10-11 18:22:34.747 [info] [Info  - 6:22:34 PM] (2803) Starting service instance "Downloads"
+2023-10-11 18:22:34.874 [info] [Info  - 6:22:34 PM] (2803) Setting pythonPath for service "Downloads": "/bin/python3"
+2023-10-11 18:22:34.879 [info] [Info  - 6:22:34 PM] (2803) Setting environmentName for service "Downloads": "3.8.2 (global)"
+2023-10-11 18:22:34.881 [info] [Warn  - 6:22:34 PM] (2803) stubPath /home/devasc/Downloads/typings is not a valid directory.
+2023-10-11 18:22:35.006 [info] [Info  - 6:22:35 PM] (2803) Assuming Python version 3.8
+2023-10-11 18:22:35.942 [info] [Info  - 6:22:35 PM] (2803) Found 6 source files
+2023-10-11 18:22:40.875 [info] [Info  - 6:22:40 PM] (2803) [BG(1)] Long operation: parsing: /home/devasc/Downloads/addbooks.py (2451ms)
+2023-10-11 18:22:45.183 [info] [Info  - 6:22:45 PM] (2803) [BG(1)] Long operation: getSemanticTokens full at /home/devasc/Downloads/addbooks.py (6761ms)
+2023-10-11 18:22:52.388 [info] [Info  - 6:22:52 PM] (2803) [IDX(2)] Long operation: scan packages /home/devasc/Downloads (10081ms)
+2023-10-11 18:23:01.772 [info] [Info  - 6:23:01 PM] (2803) [IDX(2)] Long operation: index execution environment /home/devasc/Downloads (8920ms)
+2023-10-11 18:23:01.773 [info] [Info  - 6:23:01 PM] (2803) [IDX(2)] Long operation: index packages /home/devasc/Downloads (9041ms)
+2023-10-11 18:37:06.441 [info] [Info  - 6:37:06 PM] (2803) [BG(1)] Long operation: checking: Untitled-1 (2660ms)
+2023-10-11 18:37:06.441 [info] [Info  - 6:37:06 PM] (2803) [BG(1)] Long operation: analyzing: Untitled-1 (2693ms)
+2023-10-11 18:38:37.184 [info] [Info  - 6:38:37 PM] (2803) Found 7 source files
